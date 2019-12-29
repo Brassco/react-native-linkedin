@@ -4,12 +4,12 @@
   "main": "node_modules/expo/AppEntry.js",
   "types": "lib/index.d.ts",
   "description": "React-Native LinkedIn, a simple LinkedIn login library for React-Native with WebView and Modal",
-  "repository": "https://github.com/xcarpentier/react-native-linkedin.git",
+  "repository": "https://github.com/Brassco/react-native-linkedin.git",
   "author": "Xavier Carpentier <xcapetir@gmail.com> (https://xaviercarpentier.com/)",
   "bugs": {
     "url": "https://github.com/xcarpentier/react-native-linkedin/issues"
   },
-  "homepage": "https://github.com/xcarpentier/react-native-linkedin",
+  "homepage": "https://github.com/Brassco/react-native-linkedin",
   "license": "MIT",
   "scripts": {
     "start": "yarn config:dev && expo start",
